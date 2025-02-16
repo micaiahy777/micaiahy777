@@ -1,4 +1,4 @@
-<h1>Hello , I'm Micaiah!
+<h1>Hello , I'm Micaiah, an <a href="[https://www.linkedin.com/in/micaiah-yarber-322857249/]">IT Specialist</a>☺</h1>
 
 <h2> 👨🏽‍💻 Information Technology Projects I've done:</h2>
 
